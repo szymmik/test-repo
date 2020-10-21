@@ -6,3 +6,4 @@ Uproszczenie interfejsu graficznego
 Zmiana08
 Zmiana09
 Zmiana10
+Zmiana11nowaGalaz
